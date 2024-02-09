@@ -6,6 +6,7 @@ import {
   waitForElement,
 } from "@testing-library/react";
 import "@testing-library/jest-dom";
+import "@testing-library/dom";
 import Articles from "..";
 import * as api from "../../../api/apiSlice";
 

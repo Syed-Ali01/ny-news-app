@@ -8,7 +8,7 @@ In the project directory, you can run:
 
 ## Start with cloning this repository
 
-`git clone https://github.com/Syed-Ali01/test-app.git`
+`git clone https://github.com/Syed-Ali01/ny-news-app.git`
 
 ## `npm install`
 
