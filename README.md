@@ -22,6 +22,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+<img width="594" alt="Screenshot 2024-02-08 194731" src="https://github.com/Syed-Ali01/ny-news-app/assets/159270494/ef2499c4-67b4-421e-abc8-03c4badf932b">
+
 ### `npm run test`
 
 Launches the test runner in the interactive watch mode.\
