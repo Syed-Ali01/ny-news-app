@@ -24,7 +24,7 @@ You may also see any lint errors in the console.
 
 ### Flow chart for NY Time News App for better understanding
 
-How UI component are well-structed and designed to be reusable.\
+How UI component are well-structure and designed to be reusable.\
 Logic and state are kept in the parent component to be the single source of truth for Articles.\
 Changing of article logic will be handled via a callback.
 
